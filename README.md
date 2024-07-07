@@ -94,12 +94,6 @@ Frontend developer from Sain-Petersburg 🍎
       </a>
       <br>playwright
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#nikitau-stack">
-        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
-      </a>
-      <br>puppeteer
-    </td>
   </tr> 
 </table>
 
@@ -155,12 +149,6 @@ Frontend developer from Sain-Petersburg 🍎
         <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" width="36" height="36" alt="shadcn/ui" />
       </a>
       <br>shadcn/ui
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#nikitau-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
     </td>
   </tr> 
   <tr>
