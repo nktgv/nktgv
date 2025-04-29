@@ -2,7 +2,7 @@
 
 <br/>
 
-Frontend developer from Sain-Petersburg 🍎
+Frontend developer from Saint-Petersburg 🍎
 
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/nktgv)**
