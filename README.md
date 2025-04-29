@@ -230,7 +230,7 @@ Frontend developer from Sain-Petersburg 🍎
 ## ☄️ Contact
 
 - :bird: &nbsp;**[VK](https://vk.com/nothing.usual)**
-- :airplane: &nbsp;**[Telegram](https://t.me/nktgv)**
+- :airplane: &nbsp;**[Telegram](https://t.me/nktgwork)**
 - :robot: &nbsp;**[Discord](https://discord.gg/synlikarya)**
 - :comet: &nbsp;**[Github](https://github.com/nktgv)**
 
